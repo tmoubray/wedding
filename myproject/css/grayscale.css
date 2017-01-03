@@ -432,7 +432,7 @@ body {
   top: 16px;
   left: 50%;
   margin-left: -25px;
-  background:linear-gradient(to left, rgb(111, 137, 162) , #2C3E50);
+  background:#2C3E50;
   border:1px solid white;
   z-index: 100;
 }
