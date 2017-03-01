@@ -1,1 +1,1 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/toddmoubray/Projects/wed","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/toddmoubray/Projects/wed","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/toddmoubray/Projects/wedding","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/toddmoubray/Projects/wedding","disabled":false,"__vagrantfile":true}}}
