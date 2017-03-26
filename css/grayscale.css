@@ -138,9 +138,9 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/us-min.png) no-repeat bottom center scroll;
+  background: url(../img/us-min.jpg) no-repeat bottom center scroll;
 
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.44) 0%,rgba(255, 254, 254, 0.27) 100%), url(../img/us-min.png), url(../img/us-min.png);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.44) 0%,rgba(255, 254, 254, 0.27) 100%), url(../img/us-min.jpg), url(../img/us-min.jpg);
 
   background-color: #2C3E50;
   -webkit-background-size: cover;
