@@ -317,6 +317,8 @@ ul.banner-social-buttons {
     margin-top: 15px;
   }
 }
+
+
 @media (max-width: 767px) {
   ul.banner-social-buttons li {
     display: block;
@@ -324,8 +326,6 @@ ul.banner-social-buttons {
     padding: 0;
   }
 
-
-  .seal{display:none;}
 
 
   ul.banner-social-buttons li:last-child {
@@ -681,4 +681,14 @@ body {
   transform: skew(-30deg) translateX(40%);
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
+}
+
+
+
+
+
+@media (max-width: 376px) {
+.seal {
+display: none;
+}
 }
