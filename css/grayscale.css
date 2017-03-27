@@ -687,7 +687,7 @@ body {
 
 
 
-@media (max-width: 376px) {
+@media (min-width: 376px) {
 .seal {
 display: none;
 }
