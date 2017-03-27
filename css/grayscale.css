@@ -323,6 +323,11 @@ ul.banner-social-buttons {
     margin-bottom: 20px;
     padding: 0;
   }
+
+
+  .seal{display:none;}
+
+
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
